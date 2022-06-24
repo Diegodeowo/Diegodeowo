@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Diego Soto (@Diegodeowo) and I'm a CS student, self-learner and tech lover.
+- 👋 Hi, I’m Diego Soto (@Diegodeowo)
 - 🧑‍💻 I’m interested in: Web development, currently studying on my own at Platzi.
 - 🌱 I’m currently learning: HTML, CSS, JS.
 - 💞️ I’m looking to collaborate on: Startups!
