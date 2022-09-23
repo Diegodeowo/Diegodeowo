@@ -4,6 +4,8 @@
 - *I’m currently learning: JavaScript and React.*  
   
 - *Obsessed with dark themes, minimalism, smooth transitions and cleaning material desing implementations.*  
+
+- ***#100DaysOfCode: [Diegosotoc](http://twitter.com/disotocastro)***  
   
 
 <br/>  
