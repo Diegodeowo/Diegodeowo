@@ -1,9 +1,11 @@
-### <div align="center">I'm a CS and Web Development student </div>  
+### <div align="center">CS and Web Development student </div>  
   
 
 - *Currently learning: JavaScript and React.*  
   
 - *Obsessed with dark themes, minimalism, smooth transitions and cleaning material desing implementations.*  
+
+- *E-Mail: disotocastro@gmail.com.*  
 
 - ***#100DaysOfCode: [Disotocastro](http://twitter.com/disotocastro)***  
   
@@ -59,7 +61,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/diegosotoc" target="_blank">
+<a href="https://github.com/disotocastro" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/disotocastro" target="_blank">
