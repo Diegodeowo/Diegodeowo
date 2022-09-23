@@ -1,11 +1,11 @@
 ### <div align="center">I'm a CS and Web Development student </div>  
   
 
-- *I’m currently learning: JavaScript and React.*  
+- *Currently learning: JavaScript and React.*  
   
 - *Obsessed with dark themes, minimalism, smooth transitions and cleaning material desing implementations.*  
 
-- ***#100DaysOfCode: [Diegosotoc](http://twitter.com/disotocastro)***  
+- ***#100DaysOfCode: [Disotocastro](http://twitter.com/disotocastro)***  
   
 
 <br/>  
