@@ -1,11 +1,11 @@
 ### <div align="center">CS and Web Development student </div>  
   
 
-- *Currently learning: JavaScript and React.*  
+- *Currently learning: React.*  
   
 - *Obsessed with dark themes, minimalism, smooth transitions and cleaning material desing implementations.*  
 
-- *E-Mail: disotocastro@gmail.com.*  
+- E-Mail: disotocastro@gmail.com.
 
 - ***#100DaysOfCode: [Disotocastro](http://twitter.com/disotocastro)***  
   
