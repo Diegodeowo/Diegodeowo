@@ -1,7 +1,7 @@
 ### <div align="center">CS and Web Development student </div>  
   
 
-- *Currently learning: React.*  
+- *Currently learning: React & TypeScript.*  
   
 - *Obsessed with dark themes, minimalism, smooth transitions and cleaning material desing implementations.*  
 
