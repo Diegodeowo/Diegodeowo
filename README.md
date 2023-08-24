@@ -21,16 +21,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=disotocastro&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 </div>  
-
-
-
-### Connect with me:
----
-<div align="center">
-<a href="https://github.com/disotocastro" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/diegosotocastro" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
